@@ -1,0 +1,21 @@
+.input-from{
+	text-align: center;
+	background: url(tree-736885__340.webp);
+	background-size: 100%;
+	padding:186px;
+}
+.input-from input {
+	width: 380px;
+	margin: 17px 46px;
+	height: 44px;
+	border-radius: 5px;
+	border: 2px solid #24d215;
+	background: rgba(255,255,255,0);
+	color: wheat;
+	font-size: 27px;
+}
+.input-from .sub_input{
+width: 116px;!important 
+font-weight: bold;
+font-size: 21px;
+}

@@ -1,0 +1,45 @@
+@media (max-width: 780px) {
+	
+	.input-from {
+	padding: 105px;
+   }
+  }
+
+  @media (max-width: 680px) {
+	
+	.input-from {
+	padding: 60px;
+   }
+  }
+ @media (max-width: 550px) {
+	
+	.input-from {
+	padding: 40px;
+   }
+   .input-from input {
+	width: 293px;
+	height: 36px;
+	
+}
+  }
+ @media (max-width: 500px) {
+	
+	.input-from {
+	padding: 20px;
+   }
+  } 
+  @media (max-width: 390px) {
+	
+	 .input-from input {
+	width: 250px;
+	height: 34px;
+	margin-left: 17px;
+}
+  }
+
+  @media (max-width: 360px) {
+	
+	.input-from {
+	padding: 0px;
+   }
+  }
